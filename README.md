@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Raed%20Alshammari&fontSize=60&fontColor=000000&fontAlignY=35&desc=CS%20%26%20AI%20Engineer%20%7C%20University%20of%20Leeds&descAlignY=58&descFontColor=000000&descFontSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&ampcolor=FFD700&height=200&ampsection=header&amptext=Raed%20Alshammari&ampfontSize=60&fontColor=000000&fontAlignY=35&ampdesc=CS%20%26%20AI%20Engineer%20%7C%20University%20of%20Leeds&descAlignY=58&descFontColor=000000&descFontSize=18" width="100%"/>
 
 <br/>
 
@@ -161,7 +161,7 @@ xdg-open index.html    # Linux
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&fontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&ampcolor=FFD700&ampheight=120&ampsection=footer&ampfontColor=000000" width="100%"/>
 
 **© 2026 Raed Alshammari** · Built with passion, not templates.
 
